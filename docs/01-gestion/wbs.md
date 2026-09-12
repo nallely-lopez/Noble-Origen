@@ -43,6 +43,11 @@ Documento jerárquico de descomposición del alcance en paquetes de trabajo entr
     ├── 1.6.1 Pruebas de Resiliencia ante Cortes de Conexión
     ├── 1.6.2 Pruebas de Usabilidad con Artesanos (Validación de Campo)
     └── 1.6.3 Despliegue en Ambiente de Pruebas / Producción
+
+```
+ 
+---
+
 ## 2. Diccionario de la EDT (Paquetes Críticos)
 
 ### Paquete 1.3.3: Calculadora Conversacional de Costeo Justo
