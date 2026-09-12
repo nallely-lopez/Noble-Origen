@@ -20,7 +20,7 @@ Los artesanos en Oaxaca enfrentan intermediación abusiva, falta de herramientas
 ## 📂 Documentación del Proyecto
 * [Acta de Constitución (Project Charter)](docs/01-gestion/project-charter.md)
 * [Estructura de Desglose del Trabajo (EDT)](docs/01-gestion/wbs.md)
-* [Historias de Usuario](docs/02-requisitos/user-stories.md)
+* [Historias de Usuario](docs/02-requisitos/historias-de-usuario.md)
 * [Matriz de Riesgos](docs/01-gestion/riesgos.md)
 
 ## 🚀 Instalación y Entorno Local
